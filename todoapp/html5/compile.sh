@@ -6,3 +6,4 @@ sudo rm -rf $DOCROOT/todo
 sudo cp -r src/ $DOCROOT/todo
 sudo chmod -R a+rX $DOCROOT/todo
 
+sudo
